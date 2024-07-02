@@ -13,6 +13,6 @@
 - UserMenu
 <img src="res\img\UserMenu.png">
 - StaffMenu
-<img src="res\img\StaffrMenu.png">
+<img src="res\img\StaffMenu.png">
 - AdminMenu
 <img src="res\img\AdminMenu.png">
